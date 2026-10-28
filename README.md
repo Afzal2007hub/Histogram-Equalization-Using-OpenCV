@@ -77,6 +77,7 @@ ____________________________
 
 ---
 
+
 ##  Output
 
 ### Grayscale Histogram Equalization
